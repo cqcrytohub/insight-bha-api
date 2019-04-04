@@ -65,7 +65,7 @@
     "bitcoreNode": "lib",
     "dependencies": {
         "async": "*",
-        "bitcore-lib": "https://github.com/cqcrytohub/yangcore-lib",
+        "bitcore-lib": "https://github.com/cqcrytohub/bithao-lib",
         "bitcore-message": "https://github.com/cqcrytohub/bitcore-message.git",
         "body-parser": "^1.13.3",
         "compression": "^1.6.1",
